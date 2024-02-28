@@ -1,0 +1,12 @@
+1,Lucy,Poodle,3,C:\UBB\Sem_2\OOP\a89-MitreaBogdan\DogsPhotos\Poodle.jpg
+2,Danny,Boxer,1,C:\UBB\Sem_2\OOP\a89-MitreaBogdan\DogsPhotos\Boxer.jpg
+3,Goldie,Golden-Retriever,5,C:\UBB\Sem_2\OOP\a89-MitreaBogdan\DogsPhotos\Golden_Retriever.jpg
+4,Bailey,Setter,10,C:\UBB\Sem_2\OOP\a89-MitreaBogdan\DogsPhotos\Setter.jpg
+5,Smoky,Greyhound,7,C:\UBB\Sem_2\OOP\a89-MitreaBogdan\DogsPhotos\Greyhound.jpg
+6,Fluffy,Briard,5,C:\UBB\Sem_2\OOP\a89-MitreaBogdan\DogsPhotos\Briard.jpg
+7,Sophie,Springer,4,C:\UBB\Sem_2\OOP\a89-MitreaBogdan\DogsPhotos\Springer.jpg
+8,Bella,Bichon-Frise,8,C:\UBB\Sem_2\OOP\a89-MitreaBogdan\DogsPhotos\Bichon.jpg
+9,Rocky,Malinois,1,C:\UBB\Sem_2\OOP\a89-MitreaBogdan\DogsPhotos\Malinois.jpg
+10,George,Saint-Bernard,3,C:\UBB\Sem_2\OOP\a89-MitreaBogdan\DogsPhotos\Saint_Bernard.jpg
+11,Louise,Labrador,5,C:\UBB\Sem_2\OOP\a89-MitreaBogdan\DogsPhotos\Labrador.jpg
+14,Bernardo,Portuguese,10,C:\UBB\Sem_2\OOP\a89-MitreaBogdan\DogsPhotos\Bernardo.jpg
